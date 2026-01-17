@@ -1,0 +1,3 @@
+Hello my email is test@gmail.com
+Contact us at info@company.com
+Another email: user123@yahoo.com
