@@ -1,0 +1,3 @@
+Stock: TSLA
+Quantity: 56
+Total Investment: 14000
